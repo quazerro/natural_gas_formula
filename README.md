@@ -21,3 +21,9 @@ Our task was to assess potential economic effect of introducing indexation formu
 * **03_for_students** - distributed extracts from the main dataset, which were later completed by the students and volunteers, as well as a file to track the distributed contract ids
 * **04_output** - aggregated data after the complements, as well as dataset with final calculations
 * **05_viz** - vizualizations of calculated economic effects
+
+## Savings in case the indexation formula was applied (UAH millions)
+![economy](05_viz/economy_v2.png?raw=true "Title")
+
+## Average price of natural gas on the procurement market (per 1000 m3, UAH)
+![prices](05_viz/prices_increase_v2.png?raw=true "Title")
